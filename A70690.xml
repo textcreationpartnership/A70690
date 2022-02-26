@@ -1,0 +1,509 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations on the four letters of Dr. John Wallis concerning the Trinity and the Creed of Athanasius</title>
+            <author>Nye, Stephen, 1648?-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70690</idno>
+            <idno type="STC">Wing N1508A</idno>
+            <idno type="STC">ESTC R41199</idno>
+            <idno type="EEBO-CITATION">12636803</idno>
+            <idno type="OCLC">ocm 12636803</idno>
+            <idno type="VID">64891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations on the four letters of Dr. John Wallis concerning the Trinity and the Creed of Athanasius</title>
+                  <author>Nye, Stephen, 1648?-1719.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, M.DC.XCI [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Stephen Nye. Cf. Wing (2nd ed.).</note>
+                  <note>This item also appears at reel 344:13 as part of: The faith of one God. London, 1691 (Wing F258B).</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wallis, John, 1616-1703.</term>
+               <term>Trinity --  Early works to 1800.</term>
+               <term>Athanasian Creed.</term>
+               <term>Socinianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64891:1"/>
+            <pb facs="tcp:64891:1"/>
+            <p>OBSERVATIONS ON THE Four Letters OF Dr. John Wallis, Concerning the TRINITY AND THE <hi>Creed of Athanaſius.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, M.DC.XCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="observations">
+            <pb facs="tcp:64891:2"/>
+            <pb n="3" facs="tcp:64891:2"/>
+            <head>OBSERVATIONS ON THE Four Letters OF Dr. <hi>JOHN WALLIS,</hi> &amp;c.</head>
+            <p>SIR, I thank you for Dr. <hi>W</hi>'s Third Letter (or rather Book) which you brought to my Houſe. You not find<g ref="char:EOLhyphen"/>ing me at home, prevented our diſ<g ref="char:EOLhyphen"/>courſing together of it: therefore I have given you here, my thoughts of his perfor<g ref="char:EOLhyphen"/>mance therein. And becauſe in this, he has reviewed and explained his former Letters; I alſo will <hi>again</hi> conſider them.</p>
+            <div n="design" type="part">
+               <head>The Deſign of Dr. <hi>Wallis</hi> his Letters, conſider'd.</head>
+               <p>HE tells us (at <hi>pag.</hi> 10. and 18. of his firſt Letter, and at <hi>pag.</hi> 38. of the third Letter) what is the deſign of theſe Letters; to prove, ſays he, that
+<q>
+                     <hi>What are in one re<g ref="char:EOLhyphen"/>gard Three, may in another regard be but One:</hi> and if I have ſufficiently evinced this, I have done what I undertook. And in ſo doing, have removed the great Objection, which the <hi>Socinians</hi> would caſt in our way; and becauſe of which, they think them<g ref="char:EOLhyphen"/>ſelves obliged to ſhuffle off other Argu<g ref="char:EOLhyphen"/>ments.</q> To prove his Propoſition, He al<g ref="char:EOLhyphen"/>ledges in his firſt Letter; that the three Di<g ref="char:EOLhyphen"/>menſions (Length, Breadth and Heighth) of a Cubical Body, are but one Cube. He adds there; to <hi>Be,</hi> to <hi>Know,</hi> and to
+<hi>Do,</hi> are di<g ref="char:EOLhyphen"/>ſtinct from each other: yet 'tis one and the ſame Soul, which <hi>Is,</hi> and <hi>Knows,</hi> and <hi>Does.</hi> Further; Underſtanding, Will, and Memory, are all in the ſame Soul. And <hi>
+                     <g ref="char:V">Ʋ</g>num, verum,
+<pb n="4" facs="tcp:64891:3"/> bonum</hi> are but the ſame <hi>Ens.</hi> To enlighten the dull
+<hi>Socinians</hi> by familiar and eaſy Exam<g ref="char:EOLhyphen"/>ples, he minds them (at <hi>pag.</hi> 42. of the Third Letter) that, Three Groats make but One Shilling, Three Nobles but one Pound. He dilates upon theſe Inſtances; eſpecially <hi>that noble one</hi> of the Cube (of which he has, he ſaith at <hi>pag.</hi> 18. of the Fourth Letter, conſidered <hi>above Forty Years</hi>) in ſeveral Pages: and he is ſo ſerious and earneſt, that I verily think, the Doctor is ſincere and honeſt; and doth indeed imagine, that this is the point in queſtion;
+<q>Whether what are in one re<g ref="char:EOLhyphen"/>gard Three, may not in another regard be but One?</q>
+               </p>
+               <p>Therefore, Sir, I pray tell him from me; that the <hi>Socinians</hi> will grant him, what he ima<g ref="char:EOLhyphen"/>gines is the thing in Queſtion, and much <hi>more to it.</hi> They will not put Dr.
+<hi>Wallis,</hi> up<g ref="char:EOLhyphen"/>on proving that, what in one regard are an Hundred, a Thouſand, or even an Infinite Number, may in another regard be but One. An Hundred Souldiers make but one Compa<g ref="char:EOLhyphen"/>ny, a Thouſand but one Regiment, an Infinite Number of Moments make but one Eternity. Tell him, the Queſtion is, Whether (as St. <hi>Paul</hi> expreſly teaches, <hi>Gal.</hi> 3.20.) <hi>God is One?</hi> or (as Holy Mother Church, and <hi>Alma mater Academia) God is Three?</hi> Whether there are or can be Three <hi>Infinite, Almighty and All-wiſe</hi> Perſons; or only One
+<hi>ſuch</hi> Perſon or Be<g ref="char:EOLhyphen"/>ing? Which the <hi>Socinians,</hi> guided by natural and common Notions, think to be as much as, Whether there are Three Gods, or but One God? They affirm the latter, the <hi>Trinitarians</hi> the former.</p>
+               <p>But you will ſay; the reaſon why the <hi>So<g ref="char:EOLhyphen"/>cinians</hi> deny that God can be Three, or that there are Three Infinite Perſons or Intelligent Beings, is, <hi>becauſe God being but One, cannot be Three:</hi> and here comes in the Doctor's Soluti<g ref="char:EOLhyphen"/>on, <hi>What are in one regard Three, may in another regard be but One.</hi> And this he proves by In<g ref="char:EOLhyphen"/>ſtances, as, that in a Cube there are three Di<g ref="char:EOLhyphen"/>menſions, and yet but one Cube; and ſeveral ſuch like.</p>
+               <p>I anſwer; The Doctor firſt raiſes (in the Name of the <hi>Socinians</hi>) an impertinent Ob<g ref="char:EOLhyphen"/>jection; and then ſolves it by Inſtances. The <hi>Socinians</hi> do not deny, that the One true God is Three Perſons, <hi>becauſe what is in one regard but One, cannot in another be Three;</hi> of which no Man ever was ſo fooliſh as to doubt; but for the Reaſons mentioned in the Firſt Letter of the <hi>Brief Hiſtory</hi> of the <hi>
+                     <g ref="char:V">Ʋ</g>nitarians.</hi> If the Doctor would have proved a particular Pro<g ref="char:EOLhyphen"/>poſition, in favour of the Trinity; this was the Propoſition to have been proved,
+<q>What are in one regard Three, may in another regard be <hi>ſo</hi> One; that all of them
+<hi>(toge<g ref="char:EOLhyphen"/>ther)</hi> are but One, and yet each of them (<hi>ſingly</hi> and by Himſelf) is
+<hi>that One.</hi>
+                  </q> For ſo they ſay of the (pretended) Tri<g ref="char:EOLhyphen"/>nity. The Three Perſons (ſay they) <hi>together</hi> are the one true God: yet each of them, <hi>ſingly</hi> and by himſelf, is the one true God. Each of them is ſo perfectly God, and that one true God; that he hath the whole Divine Nature and Eſſence, is an Infinite Almighty and All-wiſe Perſon. This is that monſtrous Paradox and Contradiction, that the Doctor ſhould have proved; and which he and his Party charge upon the Word of God it ſelf. This is that, which, becauſe all other Arguments failed them, in their Diſpu<g ref="char:EOLhyphen"/>tations with the <hi>Photinians</hi> and <hi>Arians;</hi> they at laſt effectually proved, by the Imperial Edicts, by Confiſcations and Baniſhments, by ſeizing and burning all Books written a<g ref="char:EOLhyphen"/>gainſt it or them, by Capital Puniſhmente, and when the Papacy <hi>(of which this is the chief Article)</hi> prevailed, by Fire and Faggot.</p>
+               <p>Let us now (briefly) conſider the Doctor's notable Inſtances. Three Groats are but one Shilling, ſaith the Doctor: Very well; but each Groat, <hi>ſingly</hi> and by it ſelf, is not a Shilling. Three Nobles are but one Pound: but each Noble, <hi>ſingle</hi> and by it ſelf, is but the third Part of a Pound. To <hi>be,</hi> to <hi>know,</hi> and to <hi>do,</hi> are in the Soul; ſo are Underſtanding, Will, and Memory; as alſo <hi>Verum, Bonum, <g ref="char:V">Ʋ</g>num:</hi> but no one of them, <hi>ſingly,</hi> is the Soul, or a Soul. Long, broad, and high, are Dimen<g ref="char:EOLhyphen"/>ſions in a Cube: But <hi>long,</hi> ſingly and by it<g ref="char:EOLhyphen"/>ſelf, is not a Cube, but only a Line; <hi>long</hi>
+                  <pb n="5" facs="tcp:64891:3"/> and <hi>broad</hi> are not a Cube, but only a Su<g ref="char:EOLhyphen"/>perficies; long, broad, and high <hi>together</hi> are the Cube. But 'tis far otherways in the (pretended) Trinity. There Father, Son and Spirit <hi>together,</hi> are the One true God; as long, broad, and high, are the Cube: and yet each of thoſe Perſons, <hi>ſing<g ref="char:EOLhyphen"/>ly,</hi> and by himſelf, is (ſaith their Creed) <hi>Perfect God,</hi> has the whole Divine Nature, or whole Nature and Perfections of God; though (in the alledged parallel) neither long, broad, nor high, is the Cube, has the whole Cubical Nature, or whole Nature and Perfections of a Cube. Therefore ſay I, this inſtance of a Cube and its three Di<g ref="char:EOLhyphen"/>menſions, does not quadrate to the (ima<g ref="char:EOLhyphen"/>gin'd) Trinity, or help us to conceive
+<hi>its Poſſibility or Conſiſtency.</hi>
+               </p>
+               <p>But ſaith the Doctor (at <hi>pag.</hi> 9. of the ſecond Letter,)
+<q>Thô we cannot ſay <hi>(in the Abſtract)</hi> that Length is a Cube, and ſo of the reſt; yet <hi>(in the Concrete)</hi> we may ſay, this long thing (or this which is long) is a Cube. Juſt ſo, we do not ſay (in the Abſtract) <hi>Paternity</hi> is God; but (in the Concrete) the Father is God; and ſo of the other Perſons. The <hi>Perſo<g ref="char:EOLhyphen"/>nality</hi> is not ſaid to be God; but the Per<g ref="char:EOLhyphen"/>ſon is. Which fully anſwers the Excep<g ref="char:EOLhyphen"/>tion.</q>
+               </p>
+               <p>So it is; when they find themſelves diſtreſt, by a clear either Argument or Anſwer, they fly to Metaphyſicks, and Terms of the canting Schools. Then come in <hi>Abſtract, Concrete, Paternity, Perſonality,</hi> and an Infinity of o<g ref="char:EOLhyphen"/>ther barbarous and inſignificant Words: only to hide clear Truth from Perſons, who can be ſhifted off with obſcure and ſenſleſs Words; Words which denote nothing that is really exiſtent in Nature, but only the Chimera's of the Metaphyſician. Show me that Trinitarian, who dares diſpute this Queſtion (about the Trinity) <hi>in plain Eng<g ref="char:EOLhyphen"/>liſh,</hi> by any ſort of Arguments; whether Arguments from Scripture, from Reaſon, or from Authority of firſt and pure Antiquity. No, no; They never durſt attempt this, nor ever will: for they know the Cauſe is loſt, if <hi>the People</hi> be permitted to under<g ref="char:EOLhyphen"/>ſtand it, and the Reaſons <hi>for</hi> and <hi>againſt</hi> it. But the comfort is; Thoſe who are at all capable of judging theſe <hi>Gothiſh</hi> and
+<hi>Vandalic</hi> Terms, are much more capable of diſcern<g ref="char:EOLhyphen"/>ing, when they are detected and confuted. Therefore to this <hi>Flouriſh</hi> of the Doctor, I reply.</p>
+               <p>'Tis ſomewhat ſurprizing, that a Mathe<g ref="char:EOLhyphen"/>matician ſhould not be more conſiderate; in giving an Inſtance belonging to his Pro<g ref="char:EOLhyphen"/>feſſion. He tells us, we may ſay in the Concrete,
+<hi>This long Thing is a Cube.</hi> I deny it. This long Thing is only <hi>a Line;</hi> this
+<hi>long and broad</hi> Thing, is only a Superficies, or one ſide of a Cube; 'tis only <hi>this long, broad, and high</hi> Thing, that is a Cube. But if the Doctor meant,
+<q>This long Thing, <hi>which is alſo broad and high,</hi> is a Cube; and were it not broad and high, it were not a Cube, but a Line, or one ſide of a Cube: then this is no Parallel to the matter in hand, the Trinity.</q> For then this Propoſi<g ref="char:EOLhyphen"/>tion, <hi>This long Thing is a Cube,</hi> is but the ſame with this, <hi>This long, broad, and high</hi> Thing, is a Cube: which will not at all help the Doctor. <hi>Long, broad,</hi> and <hi>high</hi> of the Cube, anſwer, to Father, Son, and Spi<g ref="char:EOLhyphen"/>rit of the Godhead or God; and the Cube it-ſelf anſwers to God or the Godhead: ſo far we are well. But now ſay I; thô we may ſay, <hi>This long thing is a Cube,</hi> meaning this thereby;
+<q>This long Thing, which is alſo broad and high, is a Cube; and were it not broad and high, it were not a Cube:</q> yet we cannot ſay, <hi>the Father is God,</hi> and mean thereby,
+<q>The Father, who is alſo the Son, and Holy Spirit, is God; and were He not withal the Son, and Holy Spirit, He were not God.</q> So we muſt ſpeak, to make out the Parallel: but ſo to ſpeak, All know, is Hereſy; for the Father is not the Son and Spirit, nor are they the Father. Therefore the Concrete way of ſpeaking, will no more favour the Doctor's Parallel, than the Abſtract. And he ought to have ſeen this; when he was adviſed of it, in a private Letter by
+<hi>W. I.</hi> without
+<pb n="6" facs="tcp:64891:4"/> publiſhing to the World, that even upon ſecond Thoughts he underſtood not,
+<hi>a Thing ſelf-evident.</hi>
+               </p>
+               <p>But ſuppoſing now, That the Doctor's In<g ref="char:EOLhyphen"/>ſtances did enable us, to conceive this par<g ref="char:EOLhyphen"/>ticular Difficulty, in the Doctrine of the Trinity: does he not know, that there are many more; of which himſelf will not pre<g ref="char:EOLhyphen"/>tend, that his Inſtances or Solutions are at all applicable to them? I ſay this; becauſe his Letters bear this <hi>haughty</hi> Title, <hi>The Doctrine of the Bleſſed Trinity, and the Athanaſian Creed, Explained.</hi> Do theſe Explications reach the tenth Part of the Contradictions, charged on the Doctrines of the Incarnation and Trini<g ref="char:EOLhyphen"/>ty, and on the Athanaſian Creed? What are the Dimenſions of a Cube, or the Parts of a Shilling or of a Pound, to the chief Abſur<g ref="char:EOLhyphen"/>dities in thoſe Doctrines and that Creed? I will mention but ſome of them. They tell us of, a Son receiving of his Father, be<g ref="char:EOLhyphen"/>ing Life and Godhead; and yet as old as his Father. And theſe two, Father and Son, loving one another; <hi>their Mutual Love is a Third Perſon</hi> and Spirit, equal to themſelves. This Spirit, though but an effect, is as early as its Cauſes; and <hi>the ſame with them.</hi> They tell us of an Infinite Perſon, who is,
+<hi>whole and all,</hi> united; without Leſſening or Contra<g ref="char:EOLhyphen"/>ction of himſelf, to a Finite Man. They tell us of a <hi>Perfect God</hi> and a <hi>Perfect Man,</hi> who are not Two, but One Perſon; though God (they ſay) is Three Perſons; and e<g ref="char:EOLhyphen"/>very Man (all know) is One Perſon, be<g ref="char:EOLhyphen"/>cauſe a reaſonable Soul, and an humane Body are a Perſon. They tell us one while, that two Intelligent Natures are but One Perſon: another while, on the con<g ref="char:EOLhyphen"/>trary; Three Perſons are but one <hi>Numerical</hi> Nature. They tell us, each Perſon has the whole Divine Nature, and cannot be ſepara<g ref="char:EOLhyphen"/>ted from it; They tell us farther, All the Divine Perſons are inſeparably in the Di<g ref="char:EOLhyphen"/>vine Nature: from whence we have this firſt Corollary, that each Perſon is the other Two Perſons; and then this (contrary to what the Doctor holds, at <hi>pag.</hi> 33. of the third Letter) that when the ſecond Perſon was Incarnate, ſo alſo muſt the Firſt and Third. They tell us of a Son <hi>begotten</hi> in the moſt perfect Manner from all Eternity; yet is ſtill <hi>in begetting</hi> (for the action of Generation in God, ſay they, never ceaſes, becauſe that would ſuppoſe ſome Change in God) and ever ſhall be ſo: and the like of the Spirit. They tell us, their Trin-Unity is but One, as it is <hi>but One God;</hi> and is Three, as it is Three <hi>ſuch</hi> Perſons, that each of them is (ſingly and by himſelf) a God, that is, 'tis Three in this regard, that 'tis <hi>Three Gods:</hi> ſo that at length their
+<hi>Trin-unity is</hi> (what Dr. <hi>Wallis</hi> all along abhors, as both falſe and impoſſible) <hi>Three, in the ſame regard that it is but One.</hi> For the regard is
+<hi>God,</hi> in both Pro<g ref="char:EOLhyphen"/>poſitions: in the firſt it is <hi>One God,</hi> in the other (though not in the bare Sound, yet in the Signification of the words) it is <hi>Three Gods.</hi> To add now no more; whoever does not believe all theſe (and many the like) Inconſiſtences; and that, whether he can or no; ſhall be damned. They lay the greateſt ſtreſs upon this Laſt; becauſe with<g ref="char:EOLhyphen"/>out this, few would mind the other. And this is the reaſon, they have ſo conſtantly and abſolutely refuſed to part with the Dam<g ref="char:EOLhyphen"/>natory Clauſes in the Athanaſian Creed: to part with them, is to give away all the other Articles.</p>
+               <p>Of theſe, or any of theſe, I think Dr. <hi>Wal<g ref="char:EOLhyphen"/>lis</hi> will not ſay, that his little Congruities, or rather <hi>
+                     <g ref="char:V">Ʋ</g>mbrages,</hi> are Explications or So<g ref="char:EOLhyphen"/>lutions. He has offer'd, but at very few of them: However, I will conſider even the lit<g ref="char:EOLhyphen"/>tle he has ſaid.</p>
+               <p>At <hi>pag.</hi> 34. of the third Letter he ſays;
+<q>Let one face of a Cube, ſuppoſe <hi>the Baſe,</hi> admit a foil or dark Colour; while the reſt of the Cube is Tranſparent: — this may ſomeway repreſent Chriſt's
+<hi>Humilia<g ref="char:EOLhyphen"/>tion;</hi> who being <hi>equal with God,</hi> yet took on him <hi>the form of a Servant.</hi>
+                  </q> But can the Doctor tell me, how I may ſhut up the Baſe of an Infinite Cube, which Baſe (him<g ref="char:EOLhyphen"/>ſelf ſuppoſes) is Infinite; <hi>in a Nut-ſhell?</hi> For his Creed tells me, a Thing much more marvellous; that an Infinite Perſon is whole
+<pb n="7" facs="tcp:64891:4"/> and all, united to a Finite Man; and that without leſſening or contraction of the Infi<g ref="char:EOLhyphen"/>nite Spirit or Perſon.</p>
+               <p>In the ſame page of the ſame Letter, he ſays;
+<q>God's Juſtice and Mercy are <hi>diſtin<g ref="char:EOLhyphen"/>guiſhable,</hi> thô in God they are not
+<hi>divided:</hi> accordingly ſome Things are effects of his Juſtice; others of his Mercy: So the Power and Will of God, are both Indivi<g ref="char:EOLhyphen"/>dual from himſelf: but when we ſay God is
+<hi>Omnipotent,</hi> we do not ſay he is <hi>Omnivo<g ref="char:EOLhyphen"/>lent.</hi> — If therefore we allow as great a Diſtinction between the Perſons, as be<g ref="char:EOLhyphen"/>tween the Attributes (as certainly it is not leſs, but ſomewhat more) there will be no Incongruity, in aſcribing the Incarna<g ref="char:EOLhyphen"/>tion to one of the Perſons, and not to the reſt.</q> He argues here, as if the Incarnation were an Action: now allowing him that groſs Miſtake, I ſay; if this be any Expli<g ref="char:EOLhyphen"/>cation of the propoſed Difficulty, he muſt allow that one Attribute may be Incarnate and not another. I ask the Doctor there<g ref="char:EOLhyphen"/>fore; Can the Juſtice of God be Incarnate, and not his Mercy: or his Power, and not his Will? But I muſt tell him farther; there is <hi>a cloſer Connexion</hi> between the Perſons, than the Attributes: The firſt are (according to him and his Party) <hi>in one another;</hi> the other not ſo.</p>
+               <p>Again, at <hi>pag.</hi> 13. of the firſt Letter, he argues thus;
+<q>If in this ſuppoſed Cube, we ſuppoſe (in order, not in time) its firſt Di<g ref="char:EOLhyphen"/>menſion, that of length, as A B: and to this length be given an equal breadth (which is the true
+<hi>Generation</hi> of a Square) as C D: and to this Baſis of length and breadth be given (as a farther <hi>Proceſſion</hi> from both) an equal height E F: and all this eternally. Here is a fair reſemblance of the Father, as the Fountain or Original; of the Son, as generated from him from all Eternity; and of the Holy Ghoſt, as eternally proceeding from both. <hi>And all this, without any Inconſiſtence.</hi>
+                  </q> But not with<g ref="char:EOLhyphen"/>out ſome Non-ſenſe. He ſuppoſes
+<hi>the length</hi> of this Cube to be the firſt Dimenſion, <hi>in Order, not in Time.</hi>
+'Tis Non-ſenſe to ſay, <hi>Length</hi> is firſt of the Dimenſions, not in Time but in Order. For Priority of Order, muſt be either the Priority of Time, or of Digni<g ref="char:EOLhyphen"/>ty. Priority of Time, the Doctor himſelf diſclaims; becauſe it would deſtroy his Pa<g ref="char:EOLhyphen"/>rallel: Priority of Dignity cannot be pre<g ref="char:EOLhyphen"/>tended between Dimenſions; which himſelf too ſuppoſes to be
+<hi>equally Infinite.</hi> Thus the Foundation of his Parallel is abſurd and falſe. But I will not ſtand upon it. I ask him, whether <hi>length</hi> did of it-ſelf beget <hi>breadth,</hi> communicating to it its whole Nature? did <hi>length</hi> and <hi>breadth</hi> of themſelves, without ſome external Agent, generate <hi>heighth,</hi> and communicate their Nature to it? If not, this is no Illuſtration, how the Father did himſelf <hi>eternally beget</hi> the Son, and the Father and Son <hi>generate</hi> the Spirit. He cautions me, that I would not <hi>ludere cum Sacris:</hi> He ſees, I will not; how great occaſi<g ref="char:EOLhyphen"/>on ſoever be given.</p>
+               <p>The Thing which in my opinion, and I believe in the Judgment of moſt Readers, deſerves beſt to be conſidered; is at <hi>p.</hi> 26. of the third Letter.
+<q>
+                     <hi>Solomon,</hi> as wiſe as he was, — doth yet acknowledg himſelf to be at a loſs; when he would ſearch out <hi>the bottom of Natural Things:</hi> and ſhall we then ſay, of
+<hi>the Deep Things of God;</hi> It is impoſſible, becauſe we cannot find it out?</q> I anſwer, <hi>the Deep Things of God</hi> (in the Text quoted by the Doctor) are thoſe hidden and ſecret Things, which God hath <hi>prepared for them that love him;</hi> ſee the alledged Text,
+1 <hi>Cor.</hi> 2.10, 11. Theſe <hi>Contradictions to Reaſon and Scripture,</hi> are not the Deep Things of God; but rather <hi>the Depths of Satan, (Rev.</hi> 2.24.) by which he ſeeks to lead us into Polytheiſm and Idolatry.</p>
+               <p>But hitherto of the Doctor's <hi>Deſign,</hi> or Scope in theſe Letters; and of the Inſtan<g ref="char:EOLhyphen"/>ces and Similitudes, by which he would confirm it.</p>
+            </div>
+            <div n="caveats" type="part">
+               <pb n="8" facs="tcp:64891:5"/>
+               <head>Of his <hi>Somewhats</hi> and Perſons.</head>
+               <p>ONE would expect, that ſince they ſay, the Trinity is the Doctrine of the Catholick or Univerſal Church, and neceſ<g ref="char:EOLhyphen"/>ſary to be believ'd in order to Salvation; that at leaſt they knew and were agreed, what this Trinity is, or what is thereby meant; elſe we are required to believe <hi>no Body knows what,</hi> in order to Salvation. But ſo it is; there is <hi>as much Confuſion,</hi> in declaring what this <hi>Catholic neceſſary</hi> Doctrine is, as there was at the building of <hi>Babel,</hi> where no one underſtood another. As ma<g ref="char:EOLhyphen"/>ny Writers, ſo many Explications of the Trinity; neither does this happen only a<g ref="char:EOLhyphen"/>mong the vulgar of their Learned Men; but among their Learned of the firſt Claſs and Magnitude. When any of them dares de<g ref="char:EOLhyphen"/>mand it; I will give an ample Account, of the Diverſity and Diviſions among their chief Doctors: ſuch Diverſity, that they have nothing left in which they agree, but only <hi>the word</hi> Trinity; but ſure the Word, without the Notion, is not Neceſſary to Sal<g ref="char:EOLhyphen"/>vation, becauſe 'tis
+<hi>confeſſedly</hi> Unſcriptu<g ref="char:EOLhyphen"/>ral.</p>
+               <p>Let us conſider an Inſtance of this, which has lately hapned. Firſt comes forth Dr.
+<hi>Sherlock,</hi> the Churches well-known Champi<g ref="char:EOLhyphen"/>on againſt all <hi>Her Foes;</hi> that is, againſt all thoſe who believe the Holy Scriptures <hi>with<g ref="char:EOLhyphen"/>out reſerve,</hi> and believe the Church only ſo far, as they can ſee and judg that ſhe agrees with Scripture and Reaſon, a Fault <hi>not to be purged with Sacrifice nor Offering, for ever:</hi> this famous Combatant tells us;
+<q>The Trinity is Three Infinite Beings, Minds or Spirits, each of which is <hi>ſingly</hi> and by himſelf <hi>a</hi> God; yet they are all but One God, be<g ref="char:EOLhyphen"/>cauſe Mutually Conſcious; that is, becauſe they perfectly and intimately know one anothers Thoughts and Actions.</q> He is ſo ſure, this is the very Doctrine of the Trini<g ref="char:EOLhyphen"/>ty; that <hi>to ſay the contrary, is</hi> (he ſaith) <hi>both Hereſy and Non-ſenſe.</hi> This was ſpoken like a Vindicator: for all that, not two Perſons of forty in his own Party do believe him. They plainly ſee, that if one Infinite and abſolutely Perfect Being, Mind or Spirit, be one abſolutely Perfect God, as all both Phi<g ref="char:EOLhyphen"/>loſophers and Divines confeſs he is; then of neceſſity, Three ſuch Beings are Three Gods: and Mutual Conſciouſneſs may make them a Cabal or Council of Gods; but never numerically One God. The Learned of his own Party know, that this Opinion of Dr. <hi>Sherlock,</hi> is the Errour or Hereſy of <hi>Abbat Joachim,</hi> condemned in the fourth General Council of
+<hi>Lateran,</hi> Anno 1215.</p>
+               <p>The next is Dr. <hi>Wallis,</hi> who has been ſtu<g ref="char:EOLhyphen"/>dying this Point, <hi>above Forty, and towards Fifty Years;</hi> as himſelf ſaith, <hi>Letter</hi> 4. <hi>pag.</hi> 18. After ſo long Conſideration, He is not pleaſed with former Explications; but advances one that is equally <hi>New</hi> and <hi>Cautious.</hi>
+                  <q>The bleſſed Trinity is (ſaith he, <hi>Lett.</hi> 2. <hi>pag.</hi> 3.) <hi>three Somewhats;</hi> and theſe three Somewhats we commonly call <hi>Perſons:</hi> but the true Notion and true Name of that Diſtinction, is unknown to us.</q> He again owns this to be the true Senſe of his firſt Letter, at <hi>pag.</hi> 8. of the Second; and often in his following Letters. We may call this Explication, <hi>Dr.</hi> W<hi>'s Three New Nothings:</hi> for three Some<g ref="char:EOLhyphen"/>whats, that have neither true Notion nor true Name, are to Us and to Him alſo, but ſo ma<g ref="char:EOLhyphen"/>ny Nothings; or rather <hi>Somewhats leſs than Nothings,</hi> for Nothing has at leaſt a Name.</p>
+               <p>It is plain, Dr. <hi>Wallis</hi> ſpake after this man<g ref="char:EOLhyphen"/>ner, only to avoid the Inexplicable Difficul<g ref="char:EOLhyphen"/>ties and Exceptions, to which (he ſaw) for<g ref="char:EOLhyphen"/>mer Explications of the Word
+<hi>Trinity,</hi> were liable. And if he had gone no farther in
+<pb n="9" facs="tcp:64891:5"/> his Attempts, upon this Subject; the <hi>clamorous Socinians</hi> (as he calls them) would not have charged his Doctrine, with <hi>Impoſſibility</hi> or
+<hi>Inconſiſtency.</hi> But in his Third Letter he has ſo deſcribed theſe
+<hi>Somewhats,</hi> or <hi>Perſons with<g ref="char:EOLhyphen"/>out Notion or Name;</hi> as to involve himſelf in Labyrinths, out of which all the Metaphyſicks of which he is Maſter, will never lead him.</p>
+               <p>He ſaith, <hi>Lett.</hi> 3. <hi>pag.</hi> 39.
+<q>Theſe Some<g ref="char:EOLhyphen"/>whats, till my Anſwerer can furniſh us with a better Name, we are content to call <hi>Perſons;</hi> which is <hi>the Scripture Word</hi> at Heb. 1.3.</q> But I deny, that
+<hi>Perſons</hi> is uſed of God, either in that Text, or elſe<g ref="char:EOLhyphen"/>where in Holy Scripture. The Scripture-Word every where is <hi>Perſon.</hi> In the Text by him alledged, the Son is ſaid to be the Image of <hi>God's Perſon;</hi> therefore God is but One Perſon: and therefore theſe (pretend<g ref="char:EOLhyphen"/>ed) <hi>Somewhats</hi> muſt not be called <hi>Perſons;</hi> becauſe this is not only, not the Scripture-Word, as the Doctor unwarily ſaid, but is contrary to Scripture.</p>
+               <p>He ſaith, in the Letter and Page laſt quo<g ref="char:EOLhyphen"/>ted,
+<q>The Word <hi>Perſons</hi> (when applied to God) is but Metaphorical; not ſignifying juſt the ſame, as when applied to Men.</q> And again at <hi>Lett.</hi> 3. <hi>pag.</hi> 31.
+<q>We mean thereby, no more but ſomewhat analogous to <hi>Perſons.</hi>
+                  </q> He repeats both theſe, very often in his Letters. Now this is to ſay, that what we call Perſons in God, are not indeed Perſons, not <hi>truly</hi> or <hi>properly</hi> Perſons; but ſomewhat there is in God, we know not what, which in ſome regard anſwers to Perſons. It had been tolerable, tho not intelligible; if the Doctor had here held his Hand: but in his Explication of the
+<hi>Athanaſian</hi> Creed, where it was neceſſary to be ſomewhat Or<g ref="char:EOLhyphen"/>thodox, he is in a contrary Story. For he ſays (<hi>Lett.</hi> 3. <hi>pag.</hi> 13.) <hi>The Three</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>are</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>truly Perſons,</hi> or <hi>properly Perſons.</hi> And at <hi>pag.</hi> 66. of the ſame Letter, he approves of that <hi>as the better Reading, and clearer Senſe.</hi>
+               </p>
+               <p>What a Task has he impoſed upon us? We muſt believe <hi>a Trinity of Somewbats.</hi> For Peace ſake, we are content to be Fools, and believe <hi>we know not what.</hi> But will this do? No: you muſt believe theſe <hi>Somewhats</hi> are <hi>Perſons.</hi> But the Scripture is againſt it. No, no; for this Diſtinction of Perſons, <hi>has neither true Notion, nor true Name.</hi> Upon this condition, we are contented: for if the Di<g ref="char:EOLhyphen"/>ſtinction has neither true Name, nor true Noti<g ref="char:EOLhyphen"/>on; we may affix a Notion and a Name <hi>by way of Explication,</hi> which may agree to the Deſcriptions of God in Scripture, eſpecially with that in the Firſt Commandment. Is all done now? There is one thing behind; but 'tis only this;
+<q>You muſt believe the <hi>Some<g ref="char:EOLhyphen"/>whats</hi> to be but Metaphorical Perſons, ſomewhat Analogous or <hi>like to</hi> Perſons, <hi>not truly and properly</hi> Perſons; and alſo, that <hi>they are truly Perſons and properly Perſons.</hi>
+                  </q> The Doctor will not deny this is worſe than <hi>Egyptian</hi> Slavery, of making Brick without Straw; for that was only hard, not impoſſi<g ref="char:EOLhyphen"/>ble. And I cannot think the Doctor is ſo rigid, but that upon this Remonſtrance to him, he will diſcharge us of believing his Explications, which he muſt needs own to be contradictory, and therefore impoſſible to be believed.</p>
+               <p>It is evident to me, that Dr. <hi>Wallis</hi> has thought but very ſlightly (tho, it ſeems, very long) of the Trinity. For afterwards, he retracts this laſt, that the Somewhats are truly and properly Perſons; and explains them to be Three <hi>ſuch</hi> Perſons, as the
+<hi>Sabelli<g ref="char:EOLhyphen"/>ans</hi> anciently, and now the <hi>Socinians,</hi> never oppoſed, but are ready to admit. <hi>Letter</hi> 3. <hi>pag.</hi> 4. He ſays;
+<q>
+                     <hi>Henry, William, Naſſau,</hi> is but one Man, and one Husband. <hi>James, Duke, Marqueſs,</hi> and <hi>Earl</hi> of <hi>Ormond,</hi> is not three Men, or three Chancellors.</q> By theſe Compariſons, the three Perſons are but three <hi>Names</hi> or <hi>Titles</hi> of God, as the <hi>Sabellians</hi> held; and being rightly explained, the <hi>Socinians</hi> do not deny. But he goes on.
+<q>
+                     <hi>Tully</hi> ſays, <hi>Suſtineo unus tres perſonas;</hi> i. e. <hi>I being but one Man, do ſuſtain three Perſons: that of my Self, that of my Adverſary, and that of a Judge.</hi> He did not become three Men, by ſuſtaining three Perſons.—If among us, one Man may ſuſtain three Perſons, with<g ref="char:EOLhyphen"/>out
+<pb n="10" facs="tcp:64891:6"/> being three Men: why ſhould it be thought incredible, that the three Divine Perſons may be one God, as well as <hi>thoſe three other Perſons</hi> be but one Man?</q> Again at <hi>pag.</hi> 62. of the ſame Letter;
+<q>The ſame Man may be ſaid to ſuſtain divers Perſons, and theſe Perſons to be the ſame Man, that is, the ſame Man <hi>as ſuſtaining divers Capaci<g ref="char:EOLhyphen"/>ties:</hi> as was ſaid but now of <hi>Tully, Tres per<g ref="char:EOLhyphen"/>ſonas unus ſuſtineo.</hi> And then it will be no more harſh, to ſay the Three Perſons (Father, Son, and Holy Ghoſt) are but one God; than to ſay, God the Creator, God the Redeemer, and God the Sanctifier, are (<hi>He ſhould have ſaid,</hi> is) but one God.— It is much the ſame thing, whether of theſe two Forms we uſe.—A King and an Huſ<g ref="char:EOLhyphen"/>band (tho they imply very different <hi>Noti<g ref="char:EOLhyphen"/>ons,</hi> different
+<hi>Capacities,</hi> different <hi>Relations,</hi> or different <hi>Perſonalities</hi>) yet may both concur in the ſame Man. So alſo a King and a Father, a King and a Brother.</q> Again,
+<hi>Lett.</hi> 4. <hi>pag.</hi> 25.
+<q>We ſay; God the Creator, God the Redeemer, and God the Sanctifier (or in other Words, the Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghoſt) are this one God.</q> At <hi>pag.</hi> 33. of the ſame Letter, he maketh a different <hi>Perſon</hi> to be only a different <hi>Conſideration</hi> or Reſpect; and in the next Page, not a Thing, but only <hi>a Mode.</hi> Now how can he, who believes ſuch a Trinity of <hi>Somewhats</hi> or Perſons, as this is, write againſt the <hi>Socinians?</hi> They believe this Trinity, as much as Dr. <hi>Wallis.</hi> They allow, there are in God three Somewhats and Perſons; mean<g ref="char:EOLhyphen"/>ing thereby, as Dr. <hi>Wallis</hi> explains them, three
+<hi>Names</hi> or <hi>Titles,</hi> three <hi>Capacities</hi> or <hi>Re<g ref="char:EOLhyphen"/>ſpects,</hi> three
+<hi>Relations,</hi> three <hi>Conſiderations,</hi> three <hi>Notions,</hi> three <hi>Modes.</hi> They believe, there are in God theſe three Modes, Noti<g ref="char:EOLhyphen"/>ons, Conſiderations, Capacities, Names or Titles; <hi>God the Creator, God the Redeemer, God the Sanctifier.</hi>
+               </p>
+               <p>If this be Dr. <hi>Wallis</hi> his <hi>Abiding</hi> Sentiment, concerning the Trinity; then if it be below his Character and Dignity, to permit himſelf to be called a <hi>Sabellian,</hi> or a
+<hi>Socinian;</hi> the <hi>Socinians</hi> and <hi>Sabellians,</hi> in honour of him, are content to be called <hi>Walliſians.</hi> And if you ask a <hi>Sabellian,</hi> How God the Creator, the Redeemer, and the Sanctifier, may be called God the Father, Son and Holy Spirit? He will anſwer; Almighty God as Creator is called the Father, or God the Father, be<g ref="char:EOLhyphen"/>cauſe by Creation he is Father of all things: as the Redeemer, he is called the Son, or God the Son, becauſe he redeemed us by his Son the Lord Chriſt: as the Sanctifier, he is cal<g ref="char:EOLhyphen"/>led God the Holy Spirit, becauſe he ſanctifies us by his <hi>Afflatus</hi> or Inſpiration. The <hi>Socini<g ref="char:EOLhyphen"/>ans</hi> do think this is an harſh way of ſpeaking, yet for Peace ſake they would admit this Ex<g ref="char:EOLhyphen"/>plication.</p>
+            </div>
+            <div n="explication" type="part">
+               <head>The Doctor's Explication of the <hi>Athanaſian</hi> Creed, conſider'd.</head>
+               <p>IT was with great expectation, that I be<g ref="char:EOLhyphen"/>gan to read Dr. <hi>Wallis</hi> his third Letter; becauſe it bears this ambitious Front, <hi>An Ex<g ref="char:EOLhyphen"/>plication and Vindication of the Athanaſian Creed.</hi> I ſuppoſed, He would attempt to aſſoil all the Difficulties and Contradictions, objected to it; at leaſt, thoſe in <hi>the Brief Notes</hi> on that Creed. But he meant no more by this Title, but this; <hi>An Explication of the Damna<g ref="char:EOLhyphen"/>tory Clauſes, in the Athanaſian Creed.</hi> This was to me a wonderful Diſappointment. How<g ref="char:EOLhyphen"/>ever, I will be content <hi>to conſider,</hi> what Dr. <hi>Wallis</hi> thought worthy <hi>to offer.</hi> He ſaith
+<hi>Lett.</hi> 3. <hi>pag.</hi> 4.
+<q>Whoſoever will be ſaved; before all things, it is neceſſary, that he hold the Catholick Faith. <hi>Where, ſaith the Doctor,</hi> before all things, <hi>is as much as</hi> Im<g ref="char:EOLhyphen"/>primis;
+<hi>importing, that it is</hi> mainly neceſſary, <hi>or</hi> is a principal Requiſite.</q> Was there ever a greater force put upon words? <hi>'Tis before all
+<pb n="11" facs="tcp:64891:6"/> things neceſſary,</hi> ſaith the Creed; that s, ſaith the Gloſs,
+<hi>'Tis a principal Requiſite.</hi> I always thought, there had been an immenſe diffe<g ref="char:EOLhyphen"/>rence, between <hi>Neceſſary</hi> and <hi>Requiſite:</hi> and that abundance of Things had been
+<hi>mainly</hi> or principally <hi>requiſite,</hi> which yet were not in<g ref="char:EOLhyphen"/>diſpenſably or
+<hi>before all Things neceſſary.</hi> But which of theſe <hi>Athanaſius</hi> meant, the next Clauſe puts out of queſtion.</p>
+               <p>
+                  <hi>Which Faith,</hi> ſaith the Creed, <hi>except every one do keep whole and undefiled, without doubt he ſhall periſh everlaſtingly.</hi> The Grammatical and obvious Senſe of theſe words, is this;
+<q>That Man or Woman ſhall periſh everlaſt<g ref="char:EOLhyphen"/>ingly, who doth not believe and profeſs this (following) Faith, which is indeed the Catholic or Univerſal Faith; without taking ought from it, or adding ought to it.</q> No, ſays Dr. <hi>Wallis;</hi> the Greek word is not
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>totam</hi> or <hi>whole,</hi> but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ſalvam ſanam, ſound</hi> or <hi>ſafe.</hi> And ſays he, farther;
+<q>As a Man may be ſaid to be <hi>ſound and ſafe,</hi> notwithſtanding a Wart or Wen; or even a Wound or a Maim; ſo long as the Vi<g ref="char:EOLhyphen"/>tals are not indangered: So the Catholic Faith is
+<hi>ſound and ſafe,</hi> ſo long as there is nothing deſtructive of the main Subſtan<g ref="char:EOLhyphen"/>tials or Fundamentals.</q> This is a marvel<g ref="char:EOLhyphen"/>lous reaſoning, and ſuch as the Doctor will very hardly perſuade any to believe it. Is a Man <hi>ſafe and ſound,</hi> when his Legs and Arms are ſhot off; ſo long as the Vitals are not indangered, but intire and ſafe? God deliver me, and Dr. <hi>Wallis</hi> too, from ſuch Soundneſs and Safeneſs. And if the Catho<g ref="char:EOLhyphen"/>lic Faith is <hi>ſound</hi> too, as he ſays, ſo long as the Subſtantials and Fundamentals remain; it will follow, that the Faith of the Church of <hi>Rome</hi> is
+<hi>ſound.</hi> For all Proteſtants, but the <hi>Socinians,</hi> grant; that Church retains
+<hi>all the Subſtantials and Fundamentals:</hi> yet her Faith, they confeſs, is unſound; becauſe of <hi>the erroneous Additions</hi> to the Subſtantials and Fundamentals. The Doctor therefore ſhall do well, to think again of this part of his Explication. But whereas he would con<g ref="char:EOLhyphen"/>firm theſe Perverſions, of the true intention of the damning Clauſes in this Creed, by criticizing on the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; I muſt plain<g ref="char:EOLhyphen"/>ly tell him, he is <hi>groſly</hi> out in his Criticiſm.
+<q>'Tis not, ſays he, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>totam</hi> or <hi>whole,</hi> but
+<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>ſalvam, ſanam, ſound</hi> or <hi>ſafe.</hi>
+                  </q> Is not
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> indeed the ſame with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>? If he pleaſes to conſult his Lexicons, he will find that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is rendred <hi>integram, perfectam, whole</hi> or
+<hi>perfect:</hi> ſo that the ſenſe of this Article, is, That Faith muſt be kept
+<hi>perfect, whole</hi> or entire; nothing muſt be added to it, nothing taken from it.</p>
+               <p>
+                  <hi>Lett.</hi> 3. <hi>pag.</hi> 8.
+<q>
+                     <hi>And the Catholic Faith is this;</hi> that is, this is one main Part of the Catholic Faith.</q> I confeſs, at this rate of expounding, a very tolerable Senſe may be made of this Creed, and of the <hi>Alchoran.</hi> If <hi>before all Things, neceſſary</hi> is only,
+<hi>mainly requi<g ref="char:EOLhyphen"/>ſite:</hi> if <hi>whole and undefiled</hi> may be true of a Faith, which is neither whole nor undefiled; but ſound only in Fundamentals: if <hi>the Ca<g ref="char:EOLhyphen"/>tholic Faith</hi> is only <hi>part of the Catholic Faith:</hi> what Creed or Book may not be expounded to a ſound Senſe?</p>
+               <p>
+                  <hi>Lett.</hi> 3. <hi>pag.</hi> 11.
+<q>
+                     <hi>The Holy Ghoſt is of the Father and of the Son; neither Made, nor Be<g ref="char:EOLhyphen"/>gotten, but Proceeding.</hi> Here is no Ana<g ref="char:EOLhyphen"/>thematizing of the Greek Church. 'Tis ſaid indeed, <hi>he doth proceed,</hi> and ſo ſay they: but not that he doth proceed from the Father <hi>and the Son.</hi> And it is ſaid he is <hi>of</hi> the Father and <hi>of</hi> the Son: but whe<g ref="char:EOLhyphen"/>ther
+<hi>by Proceſſion</hi> from both; or, if ſo, whether <hi>in the ſame manner,</hi> is not ſaid, but warily avoided. — And thoſe who are better acquainted with the Doctrine and Languages of the preſent Greek Chur<g ref="char:EOLhyphen"/>ches, than moſt of us are, do aſſure us, that the Differences between them and us, are rather in ſome Forms of Expreſſions, than in the Thing it ſelf.</q> To this I anſwer: The Doctor had as much reaſon to deny, that in this Article the Spirit is ſaid to proceed from the Father, as from the Son. For the word <hi>Proceeding</hi> is ſo placed, both in the Greek and Engliſh as to refer to both, or to neither. Beſides,
+<hi>Proceeding</hi> is (he knows) the very Characteriſtic of the Spirit; ſo that if he is
+<hi>of</hi> or <hi>from</hi> the Fa<g ref="char:EOLhyphen"/>ther
+<pb n="12" facs="tcp:64891:7"/> and the Son (which, the Doctor will not deny, is expreſly affirmed in this Arti<g ref="char:EOLhyphen"/>cle) it muſt be <hi>by proceeding from them:</hi> which ſince the Greeks deny, 'tis manifeſt their Doctrine is here condemned. What he adds of the preſent Greek Churches is not true: 'tis certain they hold, that their Doctrine is condemned in this Article; and therefore in return to <hi>Athanaſius</hi> his Com<g ref="char:EOLhyphen"/>plement, that <hi>they ſhall periſh everlaſtingly,</hi> they pleaſantly anſwer, <hi>He was drunk when he made this Creed.</hi>
+               </p>
+               <p>The Athanaſian Creed has this Concluſi<g ref="char:EOLhyphen"/>on; <hi>This is the Catholic Faith, which except a Man keep faithfully, he cannot be ſaved.</hi> How can Dr. <hi>Wallis</hi> elude theſe plain words; which are not annexed to any Generals, as he (though untruly) ſays of the other Damnatory Clauſes, but are as it were the Label and Seal, affixed to the whole Creed at the end or bottom of it? But what can<g ref="char:EOLhyphen"/>not a Wit, and a Learned Man do; at leaſt, what will he not attempt? He gives us a large Interpretation of this Clauſe, at <hi>pag.</hi> 19. of his third Letter: but the ſumm of it is this: <hi>This is the Catholic Faith,</hi> i. e. this is <hi>part of</hi> that Faith, which all Chriſtians do and ought to believe. <hi>Which Faith except a Man keep faithfully, he cannot be ſaved,</hi> i. e. which Faith except a Man truly believe it, <hi>as to the Subſtantials of it,</hi> though poſſibly he may be ignorant of <hi>many particulars there<g ref="char:EOLhyphen"/>of,</hi> he cannot be ſaved: Which is, as if the Doctor had ſaid:
+<q>Whereas the Atha<g ref="char:EOLhyphen"/>naſian Creed concludes, with theſe for<g ref="char:EOLhyphen"/>midable and <hi>ſeemingly plain</hi> words; <hi>This</hi> (before related) <hi>is the Catholic Faith, which except a Man keep faithfully, he cannot be ſa<g ref="char:EOLhyphen"/>ved: Athanaſius</hi> meant nothing leſs, than to damn all thoſe, who do not intirely believe his Creed. No, no, <hi>that good Man</hi> intended only this. This Catholic Faith is <hi>part</hi> of the Catholic Faith; and if you would be ſaved, you muſt believe this <hi>part of the</hi> Catholic Faith, <hi>in part,</hi> in the <hi>Subſtantials</hi> of it. Which Subſtantials, as I ſaid before, are only theſe two Generals; that <hi>there is a Trinity in <g ref="char:V">Ʋ</g>nity,</hi> or three Somewhats in one God; and that <hi>Chriſt was Incarnate.</hi>
+                  </q> This laſt may moſt eaſily be received by all Parties; for all Souls are Incarnate; and Partakers of Fleſh and Blood, by Incarnation or Incorporation. I leave it with the Reader to judge, whether the Doctor has interpreted, or eluded this Creed.</p>
+               <p>I believe, Dr. <hi>Wallis</hi> had a charitable In<g ref="char:EOLhyphen"/>tention, in the pains he has taken, to find out a favourable Senſe of the words of this Creed. But on the other hand, it looks not well, that he ſhould put as great a force on the words of <hi>Socinus,</hi> to make him ſpeak im<g ref="char:EOLhyphen"/>piouſly and heretically, as he has on the words of <hi>Athanaſius,</hi> to make him ſpeak Or<g ref="char:EOLhyphen"/>thodoxly or Charitably. This is the next thing I will conſider in his Letters.</p>
+            </div>
+            <div n="Socinus" type="part">
+               <head>The Opinions charged on <hi>Socinus,</hi> and the <hi>Socinians.</hi>
+               </head>
+               <p>IN his firſt, third and fourth Letters, He has charged the <hi>Socinians</hi> with Opinions; which not only ſubvert the Authority and Belief of Holy Scripture, but indanger all Religion and Piety towards God. <hi>Lett.</hi> 4. <hi>pag.</hi> 3. He ſaith that; <hi>He taketh his whole charge againſt the</hi> Socinians, <hi>as granted.</hi> He adds, at <hi>pag.</hi> 5. of the ſame Letter, that,
+<q>There is reaſon to ſuſpect, that the <hi>Soci<g ref="char:EOLhyphen"/>nians</hi> have ſome other odd Tenents; which they think fit rather to <hi>conceal</hi> than to <hi>de<g ref="char:EOLhyphen"/>ny.</hi>
+                  </q> What thoſe odd Tenents are, he tells us, at <hi>Lett.</hi> 1. <hi>pag.</hi> 16. that,
+<q>There is nei<g ref="char:EOLhyphen"/>ther Angel nor Spirit; that, the Holy Scriptures are not the Word of God, nor yet the Doctrines therein contained.</q> He there gives his reaſon, why he ſuſpects, and would have others ſuſpect them of theſe hor<g ref="char:EOLhyphen"/>rid
+<pb n="13" facs="tcp:64891:7"/> Opinions.
+<q>Becauſe they ſpare not to let us know, that were this Doctrine of the Trinity delivered in Scripture, in words as expreſs as could be, they would not believe it.</q> There can be nothing more falſe, or diſingenuous, than this Charge. I will examine it, Part by Part; and the (per<g ref="char:EOLhyphen"/>verted) Quotations, by which he would prove it to the Unlearned Reader.</p>
+               <p>
+                  <hi>Lett.</hi> 1. <hi>pag.</hi> 5.
+<q>They <hi>(the Socinians)</hi> tell us; How clear ſoever the Expreſſions of Scripture
+<hi>be,</hi> or <hi>can be,</hi> to this purpoſe, (i. e. <hi>to prove the Doctrine of the Trinity</hi>) they will not believe it; becauſe inconſiſtent with natural Reaſon.</q> The Doctor very often in theſe Letters, makes it a great and inexcuſeable Crime in the
+<hi>Socinians,</hi> that be<g ref="char:EOLhyphen"/>cauſe the Trinity is inconſiſtent with Natu<g ref="char:EOLhyphen"/>ral Reaſon, therefore they will not believe it, even though it were expreſſed in Scrip<g ref="char:EOLhyphen"/>ture. But what if the <hi>Trinitarians</hi> themſelves are of this opinion; that, what is inconſi<g ref="char:EOLhyphen"/>ſtent with Natural Reaſon, or with our com<g ref="char:EOLhyphen"/>mon and congennit Notions, is not to be be<g ref="char:EOLhyphen"/>lieved, though the words of Scripture be never ſo expreſs? Dr. <hi>Sherlock</hi> ſure is <hi>(now)</hi> no
+<hi>Socinian,</hi> but a <hi>Trinitarian;</hi> yet at <hi>pag.</hi> 151. of his late
+<hi>Anſwer</hi> to the <hi>Brief Hiſtory,</hi> and <hi>Brief Notes,</hi> he puts in his own Name this Queſtion, and anſwer to it.
+<q>Suppoſe, that the natural Conſtruction of the words <hi>(of Scripture)</hi> import ſuch a ſenſe, as is contra<g ref="char:EOLhyphen"/>ry to ſome evident Principle of Reaſon? Then I won't believe it. How, not be<g ref="char:EOLhyphen"/>lieve Scripture? No, no, I will believe no pretended Revelation, which contradicts the plain Dictates of Reaſon.</q> The Pro<g ref="char:EOLhyphen"/>feſſors of <hi>Franeker,</hi> who are not <hi>Socinians,</hi> (as the Doctor miſtakes, <hi>Lett.</hi> 3. <hi>pag.</hi> 38.) but <hi>Trinitarians</hi> of the moſt rigid Sect; for they are <hi>Calviniſts</hi> of the cut and die of the <hi>Dort</hi> Synod; and otherways could not be in the Penſion of <hi>the States</hi> of the <hi>
+                     <g ref="char:V">Ʋ</g>nited Pro<g ref="char:EOLhyphen"/>vinces:</hi> thoſe Profeſſors, I ſay, by confeſſion of Dr. <hi>Wallis,</hi> publiſhed a Theſis to this ef<g ref="char:EOLhyphen"/>fect:
+<q>If Reaſon dictates to us any thing o<g ref="char:EOLhyphen"/>therwiſe, than the Scripture does; 'tis an errour to ſay, in ſuch caſe, we are rather to believe the Scripture.</q> 'Tis no new thing, that Writers who undertake to diſcuſs Queſti<g ref="char:EOLhyphen"/>ons which they do not thorowly underſtand, ſhould frequently and very <hi>groſly</hi> contradict themſelves. Dr. <hi>Wallis</hi> himſelf is in this very overſight. While he is warmly charging the <hi>Socinians,</hi> with Sadduciſm and Impiety, for affirming (as he untruly ſays) that, they would not believe what is contained in Scrip<g ref="char:EOLhyphen"/>ture, if contrary to Reaſon: while I ſay he is charging the <hi>Socinians</hi> with this Doctrine, as an impious and unchriſtian Opinion; he himſelf not only believes, but profeſſes it. <hi>Lett.</hi> 1. <hi>pag.</hi> 8.
+<q>In this caſe <hi>(the Queſtion of the Trinity)</hi> the Revelation ſeems ſo clear (to thoſe who believe the Scripture) that we have no reaſon to doubt of it; unleſs the thing be found really impoſſible, and inconſiſtent with Reaſon.</q> What is this but to ſay; Though Revelation be moſt clear, yet if the thing be impoſſible, and in<g ref="char:EOLhyphen"/>conſiſtent with Reaſon, we have reaſon e<g ref="char:EOLhyphen"/>nough to doubt of it? Would Dr. <hi>Wallis</hi> now be content, that his Reader ſhould in<g ref="char:EOLhyphen"/>fer from hence, that he is a <hi>Sadducee,</hi> be<g ref="char:EOLhyphen"/>lieving neither Angel nor Spirit; or an <hi>A<g ref="char:EOLhyphen"/>theiſt,</hi> or at leaſt a <hi>Deiſt,</hi> not believing the Scripture, or that the Doctrines thereof are the Word of God; as he, moſt raſhly, and moſt uncharitably, has intimated concerning the <hi>Socinians?</hi>
+               </p>
+               <p>In my former Anſwer to him, I oppoſed to this charge of the Doctor, the clear words of
+<hi>Socinus,</hi> of <hi>Sclichtingius,</hi> and of <hi>Smalcius.</hi> The firſt of theſe ſays;
+<q>The way of Rea<g ref="char:EOLhyphen"/>ſon is too fallible, in a Matter depending on Divine Revelation; ſuch as the Chriſtian Religion is.</q> The ſecond ſays;
+<q>If any thing appear to be contained in Scripture; whatever Reaſon may ſay in contradiction to it, Reaſon muſt of neceſſity be de<g ref="char:EOLhyphen"/>ceived.</q> The third ſays;
+<q>Religion and Holy Scripture have many things above Reaſon, and therein they highly commend themſelves; but nothing which is contrary to Reaſon. As a ſmall Light to a great one, ſo Reaſon is not contrary to Scrip<g ref="char:EOLhyphen"/>ture. Let <hi>Frantzius</hi> tell us of any one Sen<g ref="char:EOLhyphen"/>tence
+<pb n="14" facs="tcp:64891:8"/> of Scripture, which is contrary to Reaſon; and then let Reaſon be ſilent in the Church.</q> 
+                  <hi>Socinus</hi> de Author S. Scrip. <hi>p.</hi> 16. <hi>Sclichtingius</hi> adv. Meiſn. de ſſ. Trin. <hi>p.</hi> 68. <hi>Smalcius</hi> contr. <hi>Frantz.</hi> diſp. 4.
+<hi>p.</hi> 137.</p>
+               <p>To theſe Citations Dr. <hi>Wallis</hi> anſwers;
+<q>He tells me of ſome <hi>Socinians,</hi> who have ſo much reſpect for the Scriptures as to ſay, Scripture contains nothing repugnant to Reaſon, and what doth not agree with Reaſon, hath no place in Divinity.</q> Since the Doctor is not pleaſed to obſerve what my Quotations prove; I muſt deſire our Reader to obſerve, and to judge between us. I think they clear the
+<hi>Socinians</hi> of the ſcanda<g ref="char:EOLhyphen"/>lous Imputation, which the Doctor ſeeks to faſten on them.</p>
+               <p>
+                  <hi>Lett.</hi> 3. <hi>pag.</hi> 45.
+<q>As to the ſuſpicion I had of ſome of their Sentiments: <hi>Socinus</hi> (E<g ref="char:EOLhyphen"/>piſt. 5.
+<hi>ad Volket.</hi>) doth abſolutely <hi>deny,</hi> that <hi>the Soul after Death</hi> doth ſubſiſt.</q> But let us hear the words of <hi>Socinus,</hi> not as they are dockt by this Author, but as they are in that Epiſtle. <hi>Satis apparet me ſentire, non ITA vivere poſt hominis ipſius mortem, ani<g ref="char:EOLhyphen"/>mam ejus; ut PER SE praemiorum poenarumve capax exiſtat; cum in ipſo primo homine, totius Immortalitatis rationem, uni Gratiae Dei tribu<g ref="char:EOLhyphen"/>am,</hi> i. e.
+<q>I hold, that a Man's Soul after his Death doth not <hi>ſo</hi> live, as that by it ſelf, or
+<hi>of its own Nature,</hi> 'tis capable of Reward or Puniſhment. In the very firſt Man, I attribute his Immortality to the alone Grace of God.</q> In a word, the O<g ref="char:EOLhyphen"/>pinion of
+<hi>Socinus</hi> was this, That there is no <hi>Natural</hi> Immortality in Man, but <hi>he hath it by the Grace and Gift of God.</hi>
+               </p>
+               <p>
+                  <hi>Lett.</hi> 3. <hi>pag.</hi> 46.
+<q>
+                     <hi>Socinus</hi> in his Tract <hi>de Eccl.</hi> ſays thus; I am not to regard what other Men teach or think, or have before now taught or thought; whoſoever or how many ſoever they be, or have been. And if, ſaith Dr. <hi>Wallis, Whoſoever</hi> are not here to be extended to the Sacred Wri<g ref="char:EOLhyphen"/>ters; he tells us of them elſewhere.</q> It appears, that the Doctor would have it thought, that theſe Words are meant of the Writers of Holy Scripture, as well as others; at leaſt, that 'tis doubtful whether they were not ſo intended. Therefore here again we muſt hear <hi>Socinus</hi> himſelf. <hi>Cumque res Divinas, Humana ipſa per ſe ratio aſſequi nequeat; ad Divinam patefactionem conſugiendum eſt. Nec attendendum quid Homines, praeſertim ques nec vitae Innocentia, nec Divinum aliquod certum Te<g ref="char:EOLhyphen"/>ſtimonium commendat, doceant ſentiantve; vel antehac docuerint aut ſenſerint; quicunque illi tandem aut quotcunque ſint, aut fuerint, i. e.</hi>
+                  <q>Since Human Reaſon cannot of it ſelf attain the knowledg of things Divine, <hi>we muſt have recourſe to Divine Revelation;</hi> and not mind what Men (eſpecially who are re<g ref="char:EOLhyphen"/>commended to us, neither by their own Probity, nor by the Witneſs of God) teach or think; or have taught or thought; whoſoever, or how many ſoever they be, or have been.</q> I know not what could be ſaid more truly, or more like a Proteſtant.</p>
+               <p>Dr. <hi>W. Lett.</hi> 3. <hi>pag.</hi> 47.
+<q>As for me (ſaith <hi>Socinus, de Servat. pag.</hi> 3. <hi>c.</hi> 6.) tho it were found written in the Sacred Monuments, not once, but many times; I would not for all that believe it ſo to be. And a little before, having firſt told us that the thing was <hi>impoſſible;</hi> He adds: When it doth plainly appear <hi>(or when he thinks ſo, what<g ref="char:EOLhyphen"/>ever all the World think beſide)</hi> that the thing cannot be, tho the Divine Oracles do ſeem expreſly to atteſt it, <hi>it muſt not be ad<g ref="char:EOLhyphen"/>mitted;</hi> and therefore the Sacred Words are, even by unuſual Tropes, <hi>to be interpreted</hi> to another Senſe than what they ſpeak.</q> To this I ſay, either <hi>Socinus</hi> was a groſs Here<g ref="char:EOLhyphen"/>tick, or an Apoſtate from Chriſtianity; or thoſe who have furniſhed Dr. <hi>Wallis</hi> with theſe Quotations are as groſs Falſifiers: for I can<g ref="char:EOLhyphen"/>not ſuſpect, that Dr. <hi>Wallis</hi> himſelf would forge ſuch Calumnies to blacken another Man, eſpecially a Noble Perſon, long ſince dead, and who never did him any Injury. The ve<g ref="char:EOLhyphen"/>ry words of <hi>Socinus</hi> are theſe. <hi>Nonnulla in ipſo</hi> (nempe Chriſto)
+<hi>reperta ſunt quae</hi> ejuſmo<g ref="char:EOLhyphen"/>di <hi>ſatisfactionem penitus excludunt. Quare ne<g ref="char:EOLhyphen"/>queo ſatis mirari, quid eis in mentem venerit, qui nobis primi</hi> Iſlam <hi>Satisfactionem fabricârunt. Cum ea quae fieri non poſſe apertè conſtat, Divinis
+<pb n="15" facs="tcp:64891:8"/> etiam oraculis ea facta fuiſſe</hi> in ſpeciem <hi>diſertè atteſtantibus, nequaquam admittantur; (&amp; id<g ref="char:EOLhyphen"/>circo ſacra verba in alium ſenſum quam ipſa ſonant, etiam per inuſitatos tropos explicantur;) nedum tunc pro compertis &amp; plane veris affirmentur, at<g ref="char:EOLhyphen"/>que aliis obtrudantur, cum ne verbum quidem in univerſis ſacris literis de ipſis extet. Nam ſi vel unus ſaltem locus inveniretur, in quo Satisfactio<g ref="char:EOLhyphen"/>nis, pro peccatis noſtris Deo per Chriſtum exhi<g ref="char:EOLhyphen"/>bitae mentio fieret; excuſandi fortaſſe viderentur. Ego quidem etiamſi, non ſemel ſed, ſaepe ID in ſa<g ref="char:EOLhyphen"/>cris monumentis ſcriptum extaret; non idcirco ta<g ref="char:EOLhyphen"/>ment ita rem prorſus ſe habere crederem, ut vos opinamini.</hi> In Engliſh, thus;
+<q>There are ſome things in our Lord Chriſt, which plain<g ref="char:EOLhyphen"/>ly exclude <hi>ſuch a</hi> Satisfaction. Wherefore I cannot ſufficiently wonder, what was in their Minds, who firſt deviſed <hi>that</hi> Satis<g ref="char:EOLhyphen"/>faction. Thoſe things, of which 'tis mani<g ref="char:EOLhyphen"/>feſt that they cannot be, are not admitted <hi>(he means, by Interpreters and Commentators)</hi> though the Scriptures do
+<hi>as it were ſeem</hi> to affirm them expreſly; (and therefore the ſacred Words are, even by unuſual Tropes, interpreted to another ſenſe than what they ſound;) much leſs are they affirmed for apparent and plain Truths, or forced up<g ref="char:EOLhyphen"/>on others, when there is not a word about them in the whole Scripture. For if even but one Text were found, in which there were mention of Satisfaction, made to God for our Sins by the Lord Chriſt; they might perhaps be excuſed. For my part, though <hi>IT (he means this word Satisfaction)</hi> were extant in Scripture, not only once, but many times; I would not for all that, believe <hi>the Thing</hi> to be altogether
+<hi>ſo as ye hold it.</hi>
+                  </q> Theſe laſt words are left out in the Doctor's Latin Quotation, and in his Tranſlation; and what <hi>Socinus</hi> plainly in<g ref="char:EOLhyphen"/>tended of the cuſtom and manner of Inter<g ref="char:EOLhyphen"/>preters or Commentators, that the Doctor repreſents as <hi>Socinus</hi> his private Sentiment, and the rule of interpreting by him only uſed and adviſed. But any one who underſtands Latin, and reads <hi>Socinus</hi> his own words at length, which I have before repeated, will ſee, <hi>Socinus</hi> meant only thus much:
+<q>This word <hi>Satisfaction</hi> is no where extant in Holy Scripture; and if it were, yet we need not therefore believe the vulgar Doctrine about the Satisfaction; both be<g ref="char:EOLhyphen"/>cauſe there are in the Lord Chriſt himſelf ſeveral things which exclude ſuch a Satis<g ref="char:EOLhyphen"/>faction; and becauſe all Interpreters have recourſe to (even unſual) Tropes, when the Scriptures ſeem to affirm things which would be manifeſtly falſe, if we interpreted them by the mear ſound of the Words.</q> I ſuppoſe <hi>Socinus</hi> might have in his Thoughts, <hi>that Rock was Chriſt,</hi> 1 Cor. 10.4. <hi>I am the living Bread which came down from Heaven, if any Man eat of this Bread he ſhall live for ever;</hi> or ſuch like Texts: in which it cannot be deni<g ref="char:EOLhyphen"/>ed, that the Tropes are harſh and unuſual in the Weſtern Languages, though they were not ſo in the Eaſtern.</p>
+               <p>
+                  <hi>Lett.</hi> 3. <hi>pag.</hi> 4.
+<q>They are <hi>Socinus</hi> his own words (Epiſt. <hi>ad Balcerovic. Jan.</hi> 30. 1581.) The contrary Opinion (with <hi>Au<g ref="char:EOLhyphen"/>guſtin</hi>'s leave, and others of his mind) ſeems to me ſo abſurd and pernicious; that we muſt rather put <hi>a Force, how great ſoever,</hi> upon
+<hi>Paul</hi>'s words, than admit it.</q> At <hi>Lett.</hi> 4. <hi>pag.</hi> 2. and often elſewhere, the Doctor repeats theſe words as if they were ſpoken of the Doctrine of the Trinity. But the thing is not ſo. The Queſtion touched in that Letter, is whether the Context of <hi>Rom.</hi> 7.14, <hi>&amp;c. I am Carnal, ſold under Sin,</hi> &amp;c. is to be underſtood of <hi>Paul</hi> himſelf, and every other regenerate Perſon, or not?
+<hi>Socinus</hi> denies, they are ſpoken of <hi>Paul,</hi> or other regenerate Perſon, and adds that a Force (how great ſoever) is rather to be uſed to the words, than to admit ſuch a pernicious Opinion; that is, than admit that St. <hi>Paul</hi> or a regenerate Man is <hi>Carnal, ſold under Sin,</hi> &amp;c. Theſe words are indeed <hi>hyperbolical;</hi> but conſidering the occaſion, capable of (and intended in) an honeſt ſenſe; as any candid Man will ac<g ref="char:EOLhyphen"/>knowledg.</p>
+               <p>
+                  <hi>Lett.</hi> 3. <hi>pag.</hi> 44. He ſaith;
+<q>
+                     <hi>Sandius,</hi> that great Friend of the <hi>Socinians;</hi> and Promo<g ref="char:EOLhyphen"/>ter of their Cauſe, publiſhed a Theſis a<g ref="char:EOLhyphen"/>gainſt the Divinity of the Holy Ghoſt, and
+<pb n="16" facs="tcp:64891:9"/> was ſo anſwered by <hi>Wittichius,</hi> that a Friend of <hi>Sandius</hi> (and his Partner in maintaining that Theſis) did after the Death of <hi>Sandius</hi> publiſh to the World, that <hi>Sandius</hi> himſelf was ſatisfied, and changed his Opinion.</q> This Matter is both unskilfully and unfairly related. Firſt, <hi>Sandius</hi> was no
+<hi>Socinian,</hi> but an <hi>Arian;</hi> and not only often wrote againſt the
+<hi>Socinians,</hi> but endeavours in that very Theſis (mentioned by the Doctor) to con<g ref="char:EOLhyphen"/>fute the Opinion of the <hi>Socinians</hi> about the Holy Ghoſt. Secondly, As <hi>Sandius</hi> denied
+<hi>the Divinity</hi> and believed <hi>the Perſonality</hi> of the Holy Spirit; ſo it came into his Mind, that perhaps by the Holy Spirit is meant the whole kind of Holy Angels or Spirits; as by the Devil and Satan, is often meant the whole Race of wicked, apoſtate or fallen Spirits. This Opinion he calls a Paradox, <hi>Problema, Paradoxum,</hi> and propounds it to be diſputed by Learned Men; himſelf alledging the Ar<g ref="char:EOLhyphen"/>guments for it in the aforementioned Theſis.
+<hi>Wittichius</hi> ſo replied, that (as <hi>Sandius</hi> his Aſſo<g ref="char:EOLhyphen"/>ciate reports)
+<hi>Sandius</hi> was ſatisfied, not of the Divinity of the Holy Spirit, but that the Spirit is One Perſon, (as the <hi>Arians</hi> always held) not more Perſons or Spirits.</p>
+               <p>I ſaid in my former Letter, that a Re<g ref="char:EOLhyphen"/>ſpondent for his Degree at <hi>Oxford,</hi> put for one of his Queſtions, ſuch a Theſis againſt the <hi>Socinians,</hi> as Dr. <hi>Wallis</hi> objects to them, <hi>viz.</hi> That they preferred Reaſon above Scrip<g ref="char:EOLhyphen"/>ture; and that his Learned
+<hi>Antagoniſt</hi> (thô neither then, nor ſince a <hi>Socinian</hi>) made it appear that the Reſpondent had not read the Books of the <hi>Socinians,</hi> but accuſed them <hi>by hearſay.</hi> I added, That if Dr. <hi>Wallis</hi> were urged to defend his Charge againſt the
+<hi>Soci<g ref="char:EOLhyphen"/>nians;</hi> I doubted, he could acquit himſelf no better than that Candidate for <hi>his Degree</hi> did. The Doctor has increaſed my Suſpi<g ref="char:EOLhyphen"/>cion by his third and fourth Letters; for I cannot believe of him, that he would know<g ref="char:EOLhyphen"/>ingly and deliberately pervert the Words of Authors, long ſince dead, and who never did him wrong by Word or Deed. There<g ref="char:EOLhyphen"/>fore I ſuppoſe his Quotations were borrowed from S. <hi>Mareſius</hi> (or perhaps from S. <hi>Lub<g ref="char:EOLhyphen"/>bertus</hi>) who cared not what he ſaid of any Adverſary, eſpecially of a <hi>Remonſtrant</hi> or a <hi>Socinian.</hi> But were this whole Accuſation of <hi>Socinus</hi> as true as 'tis notoriouſly falſe; the
+<hi>
+                     <g ref="char:V">Ʋ</g>nitarians</hi> (though they are by others called <hi>Socinians</hi>) do not think themſelves concerned in it: for they do not profeſs to follow <hi>Socinus,</hi> but the Scripture. If <hi>Socinus</hi> has at any time ſpoken erroneouſly, or un<g ref="char:EOLhyphen"/>adviſedly, or hyperbolically; 'tis not <hi>Soci<g ref="char:EOLhyphen"/>nus</hi> who is their Maſter, but Chriſt. As great
+<hi>Chillingworth</hi> ſomewhere ſays, the Bi<g ref="char:EOLhyphen"/>ble, the Bible, the Bible, is our both Rule, and Guide: not <hi>Calvin,</hi> not <hi>Luther,</hi> nor <hi>Soci<g ref="char:EOLhyphen"/>nus,</hi> but the Bible.</p>
+               <p>I am come now within ſight of my Con<g ref="char:EOLhyphen"/>cluſion; it only remains, that I anſwer briefly to ſome exceptionable Paſſages, and incompetent Anſwers, to what I had ob<g ref="char:EOLhyphen"/>jected in my firſt Letter. I may be <hi>very brief,</hi> becauſe the Doctor, as is the cuſtom of eloquent Men and Orators, has ſaid but <hi>a little in a great deal.</hi>
+               </p>
+               <p>Firſt; Whereas he has up and down in theſe Letters, objected ſeveral Texts againſt the Socinian Hereſy of <hi>but One God;</hi> and in defence of the Catholic and Orthodox Doctrine of
+<hi>Three Gods:</hi> as to thoſe Texts which he has only cited, without inlarging or criticizing upon them, I refer my ſelf to the Explications in the <hi>Brief Hiſtory</hi> of the
+<hi>Soci<g ref="char:EOLhyphen"/>nians,</hi> and to <hi>the Defence</hi> of that Hiſtory. He ſaith (<hi>Lett.</hi> 3.
+<hi>pag.</hi> 42.) that Dr. <hi>Sherlock has confuted that Hiſtory.</hi> I obſerve, that the Orthodox Writers cry up one anothers Books, as clear Victories; though thoſe Books are as contrary to one another as they are to the <hi>Socinians;</hi> and if any one of them has confuted the <hi>Socinians,</hi> he has at the ſame time confuted all his own Party, and even Holy-mother
+<hi>Church</hi> her ſelf. If Dr. <hi>Sherlock</hi> has confuted the <hi>Brief Hiſtory,</hi> he muſt needs too have confuted Dr. <hi>Wallis</hi> his four <hi>Sabellian Letters.</hi> If he has proved, that there are Three Infinite Intelligent Beings, Minds, and Spirits, then he has con<g ref="char:EOLhyphen"/>futed thoſe that ſay, the Trinity is <hi>Three Some<g ref="char:EOLhyphen"/>whats, without true Name, or true Notion;</hi> Three
+<pb n="17" facs="tcp:64891:9"/> Capacities or Reſpects, Three Names or Ti<g ref="char:EOLhyphen"/>tles of God, Three Modes or Relations to his Creatures, namely Creator, Redeemer, and Sanctifier. And if Dr. <hi>Wallis</hi> has proved this laſt in his celebrated Letter, he has without doubt confuted Dr.
+<hi>Sherlock;</hi> who aſſerts Three Infinite Spirits and Beings; who are one God, only as they are Mutually Con<g ref="char:EOLhyphen"/>ſcious, or know and feel one anothers Minds and Actions. And both of them have con<g ref="char:EOLhyphen"/>futed Mother <hi>Church,</hi> who hath in ſeveral Ge<g ref="char:EOLhyphen"/>neral Councils Anathematized the Doctrine of <hi>Sabellius,</hi> whom Dr. <hi>Wallis</hi> follows; and the Hereſy of
+<hi>Philoponus</hi> and <hi>Abbat Joachim,</hi> who are followed by Dr. <hi>Sherlock.</hi> That a
+<hi>Sabellian</hi> ſhould tell a <hi>Tritheiſt,</hi> he has confu<g ref="char:EOLhyphen"/>ted the <hi>Socinians,</hi> is ſuch a Complement, that if <hi>the Vindicator</hi> doth not take it for a Jeer, he is (without doubt) ſo much a Gentleman, as by way of requital to publiſh to the World in his Next, that Dr.
+<hi>Wallis</hi> has eternally and irrefragably <hi>confuted the Neighbour, and the Neighbour's Friend.</hi>
+               </p>
+               <p>In the mean time, I cannot but wonder, that the Orthodox Writers being ſo badly agreed, what their Trinity is, that they have nothing left in common among them but on<g ref="char:EOLhyphen"/>ly the word
+<hi>Trinity:</hi> I wonder, (I ſay) that they ſhould ſo earneſtly contend for a Word, which themſelves confeſs, is neither found in Scripture, nor was known to firſt and pure Antiquity. The two great Reformers, <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> and <hi>Calvin,</hi> were not ſo much taken with this Word, as we are now adays. <hi>M. Luther (Poſtil. major. Dominic.)</hi> ſays;
+<q>The word <hi>Trinity</hi> ſounds odly, and is an humane In<g ref="char:EOLhyphen"/>vention. It were better to call Almighty God, <hi>God,</hi> than <hi>Trinity.</hi>
+                  </q> 
+                  <hi>J. Calvin (Ad<g ref="char:EOLhyphen"/>mon.</hi> 1. <hi>ad Polonos</hi>) ſays;
+<q>I like not this Prayer, <hi>O Holy Bleſſed and Glorious Trinity.</hi> It ſavours of Barbarity; — the word <hi>Trinity</hi> is barbarous, inſipid, profane, an humane Invention, grounded on no Teſti<g ref="char:EOLhyphen"/>mony of God's Word, the Popiſh God, unknown to the Prophets and Apoſtles.</q>
+               </p>
+               <p>I obſerved in my former Letter, that our Saviour ſays, <hi>John</hi> 17.1, 3. <hi>Father, — this is Life eternal, that they know Thee (the only true God) and Jeſus Chriſt whom thou haſt ſent.</hi> Or, Jeſus Chriſt thy Meſſenger. I alledged this Text to prove, that only <hi>the Father</hi> is the true God. The Doctor (at <hi>Lett.</hi> 3. <hi>pag.</hi> 51.) gives three Anſwers. And of theſe, the firſt and third are contrary to and deſtructive of one another; if the firſt is true, the third muſt be falſe; if the third be true, the firſt is falſe. For the firſt ſup<g ref="char:EOLhyphen"/>poſes, that by <hi>Father</hi> here is meant only the Perſon of the Father, or the firſt Perſon in the Trinity; the other ſuppoſes, that by
+<hi>Fa<g ref="char:EOLhyphen"/>ther</hi> is meant <hi>God</hi> in the moſt large ſenſe; ſo as to comprize the Father, Son, and Holy Spirit. I will examine the three Anſwers ſeverally.</p>
+               <p n="1">1. He ſaith;
+<q>I ſhould have conſidered, that it is not ſaid, <hi>Thee only,</hi> to be the true God; but
+<hi>Thee,</hi> the only true God. The reſtrictive <hi>Only</hi> is not annexed to <hi>Thee,</hi> but to <hi>God.</hi>
+                  </q> His meaning in plainer terms is this; I ſhould have noted the vaſt difference between theſe two Forms, <hi>Thee only, the true God;</hi> and, <hi>Thee, the only true God.</hi> If the objected Text had been in the firſt of theſe Forms, the
+<hi>Socinians</hi> had undoubtedly gained their Point; but the latter (which is the Form in the alledged Text) does them no ſervice. This may be called a Fineneſs, a Subtlety, a Querk; not an Accurate Rea<g ref="char:EOLhyphen"/>ſoning, or a real and true Diſtinction. For, firſt; There is no difference in the Significa<g ref="char:EOLhyphen"/>tion of theſe Propoſitions: <hi>Thee only, the true God;</hi> and, <hi>Thee, the only true God:</hi> the laſt is as excluſive of all other Perſons beſides the Father, as the firſt. As there is no difference between ſaying, <hi>Thee only,</hi> Leopold, <hi>the true Emperour of</hi> Germany: and ſaying, <hi>Thee,</hi> Leo<g ref="char:EOLhyphen"/>pold, <hi>the only true Emperour of</hi> Germany. Secondly, If there were indeed a difference between theſe two Forms, yet the latter is as hurtful to the <hi>Trinitarians</hi> as the former. They will not have it to be here ſaid,
+<hi>the Fa<g ref="char:EOLhyphen"/>ther only is the true God;</hi> no, no, that deſtroys the Trinity: but, <hi>the Father is the only true God.</hi> I ſay now, if this laſt does not deſtroy the Trinity, it certainly
+<hi>confounds the Perſons,</hi> which in their Creed is no leſs Hereſy than the o<g ref="char:EOLhyphen"/>ther.
+<pb n="18" facs="tcp:64891:10"/> For ſeeing in the Trinitarian Hypothe<g ref="char:EOLhyphen"/>ſis, God or the One true God is Father, Son, and Holy Sprit; theſe words, <hi>Thee Fa<g ref="char:EOLhyphen"/>ther the only true God,</hi> muſt be to ſay, <hi>Thee Father, the Father, Son, and Holy Spirit.</hi> But this is Hereſy, it confounds the Perſons; it makes the Father, to be Father, Son, and Holy Spirit. Thus the Doctor's firſt Anſwer has two Faults; 'tis founded not on a real, but chimerical and imaginary Diſtinction; and it implies Hereſy.</p>
+               <p n="2">2. He anſwers;
+<q>The words may be thus expounded. To know Thee, Father, to be the only true God, and Jeſus Chriſt, whom thou haſt ſent.</q> Or thus, to know Thee, and Jeſus Chriſt whom thou haſt ſent, to be the only true God. This Interpretati<g ref="char:EOLhyphen"/>on is generally rejected by the more Learned
+<hi>Trinitarians,</hi> becauſe it apparently deſtroys the Divinity of the Holy Spirit. For if the Father and Son, be the only true God, it re<g ref="char:EOLhyphen"/>mains, that the Spirit either is only <hi>a Crea<g ref="char:EOLhyphen"/>ture,</hi> as the <hi>Arians</hi> and <hi>Bidellians</hi> ſay; or the <hi>Power and Inſpiration of God,</hi> as the <hi>Pholinians</hi> and <hi>Socinians</hi> affirm. I believe the Doctor was aware of this unlucky Conſequence, and therefore advanced a third Interpretation, which himſelf ſeems to approve, becauſe af<g ref="char:EOLhyphen"/>terwards he repeats and urges it again.</p>
+               <p n="3">3. He ſays;
+<q>The Scope of the place may be this; to ſet forth, that <hi>there is but One true God</hi> (though in this Godhead be Three Perſons, Father, Son, and Spirit:) and the Doctrine of Redemption, by <hi>Jeſus Chriſt whom God hath ſent:</hi> Which Things the Heathens knew not.</q> Now according to this Anſwer, <hi>Father</hi> in this Text is <hi>God,</hi> as comprizing the Three Perſons, Father, Son, and Spirit; and Jeſus Chriſt, is the Man Je<g ref="char:EOLhyphen"/>ſus Chriſt, or Jeſus Chriſt as Man. But I would know how it comes to paſs, that the particular Title and very Characteriſtic of the firſt Perſon, is here given to the Son and Spi<g ref="char:EOLhyphen"/>rit? At this rate of interpreting, how ſhall we ever diſtinguiſh the Perſons? One while we are told, <hi>Father</hi> is the perpetual and in<g ref="char:EOLhyphen"/>communicable Character or Deſcription of the Firſt Perſon: another while, <hi>Father</hi> is the Three Perſons, even Father, Son, and Holy Spirit. But ſo it is, They that maintain a falſe Opinion, muſt anſwer according to the preſent Exigence; ſometimes this Thing, ſometimes the contrary: only Truth is ſta<g ref="char:EOLhyphen"/>ble, coherent, conſiſtent with it ſelf, always the ſame. Farther, That by <hi>Father</hi> here is meant only One Perſon, not Three Perſons, is clear by this, that otherways our Saviour ſhould have ſaid <hi>Fathers,</hi> not <hi>Father.</hi> For Three Perſons, who All have the relation of Paternity (as this Anſwer ſuppoſes) are as much Three Fathers, as they are Three Per<g ref="char:EOLhyphen"/>ſons.</p>
+               <p>Next, I objected 1 Cor. 8.6. <hi>But to us, there is but One God, the Father, of whom are all Things, and we in Him; and One Lord</hi> (or Maſter, <hi>i. e.</hi> Teacher) <hi>Jeſus Chriſt, by whom are all Things, and we by Him.</hi> Or rather, Jeſus Chriſt, <hi>for</hi> whom are all Things, and we <hi>for</hi> Him. For all Things were originally created for Him; that is, with Intention to ſubject them (in the fulneſs of time) to Him, as their Principal and Head, under God. To this the Doctor anſwers as before;
+<q>It is manifeſt, that <hi>One God</hi> is here put in op<g ref="char:EOLhyphen"/>poſition (not to Plurality of Perſons in one Deity, but) to the <hi>many Gods</hi> of the Hea<g ref="char:EOLhyphen"/>then; and our <hi>one</hi> Saviour againſt their <hi>many</hi> Saviours.</q> But I do not know, that the Heathens diſtinguiſhed between their Gods and their Saviours, as the Doctor here and many other Interpreters ſuppoſe. He ſhould have ſaid, our one Maſter or <hi>Teacher</hi> to their many Teachers, to the numerous Profeſſors of different Philoſophies among the Heathen. But the <hi>One God</hi> is oppoſed, not only to the <hi>Many Gods</hi> of the Heathen, but to all other Perſons, but (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>the Father.</hi> I ask as before, How could St.
+<hi>Paul</hi> call Three Perſons <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>the Father;</hi> and how this Characteriſtic of the Firſt Perſon can by him be given, to <hi>the Son</hi> and <hi>the Pro<g ref="char:EOLhyphen"/>ceeder:</hi> is not this plainly to <hi>confound the Per<g ref="char:EOLhyphen"/>ſons?</hi> He that confounds <hi>the Characters,</hi> ne<g ref="char:EOLhyphen"/>ceſſarily confounds the Perſons. If the Apo<g ref="char:EOLhyphen"/>ſtle had known and believed the Divinity of our Times, he muſt have ſaid; <hi>To us there is
+<pb n="19" facs="tcp:64891:10"/> but one God, the Father, the Son, and the Holy Ghoſt; and one Teacher, Jeſus Chriſt as Man.</hi> Nay were that Doctrine true, he had more reaſon ſo to ſpeak to the <hi>Corinthians,</hi> than we now have. For they were Novice Chriſtians, to whom it was neceſſary to ſpeak of ſo high a Point, in the moſt explicit open and plain Terms. We may therefore certainly infer, that when he teaches them, <hi>To us there is but One God,</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>the Father;</hi> he meant to deny, that there is any other Perſon but the Father, who is or can be God.</p>
+               <p>
+                  <hi>Lett.</hi> 3. <hi>pag.</hi> 57. He objects, <hi>Rom.</hi> 9.5. <hi>Of whom as concerning the Fleſh Chriſt came, who is over all, God bleſſed for ever;</hi> Amen.
+<q>He obſerves hereupon, that in the Greek 'tis <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which anſwers to
+<hi>JAH</hi> and <hi>Jehovah.</hi> And, that Chriſt is again called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> at
+<hi>Rev.</hi> 1.8. as appears by ver. 11, 13, 17, 18. He ſaith farther, that the above-cited Text in its full Emphaſis, is thus; <hi>Of whom as concerning the Fleſh Chriſt came, that Being o<g ref="char:EOLhyphen"/>ver all, the ever bleſſed God.</hi>
+                  </q> Amen. But firſt, The word <hi>Amen</hi> makes Non-ſenſe of this whole Criticiſm and Tranſlation. If the Doctor had tranſlated this Text as <hi>Eraſmus, Curcellaeus,</hi> and the <hi>Socinians</hi> do; <hi>Of whom as concerning the Fleſh Chriſt came, God who is over all, be bleſſed for ever:</hi> it had been proper for the Apoſtle to conclude ſuch a Doxology or <hi>Thanksgiving,</hi> with <hi>Amen.</hi> But 'tis Non-ſenſe to ſay <hi>Amen,</hi> to theſe words; <hi>Of whom as concerning the Fleſh Chriſt came, that Being over all, the ever-bleſſed God.</hi> Every one ſees here is no occaſion for <hi>Amen.</hi> But this Criticiſm and Interpretation of the Doctor, has another fault. For if, as the Doctor ſays, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> be <hi>that Being over all,</hi> and anſwers to the Hebrew <hi>Jah</hi> and <hi>Jehovah;</hi> and if Jeſus Chriſt be <hi>that Being over all, Jah,</hi> and <hi>Jehovah,</hi> the ever-bleſſed God, he muſt be Father, Son, and Holy Spirit: for according to the <hi>Trinitarians,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Jah Jehovah,</hi> the Being over all, the ever-bleſſed God, is theſe Three Perſons, Father, Son, and Holy Spirit. I ſay therefore, the Doctor's is not a good Tranſlation, becauſe Jeſus Chriſt is not Father, Son, and Holy Ghoſt. He ſaith, the Lord Chriſt is called
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> at <hi>Rev.</hi> 1.8. I deny it. And I give this reaſon; becauſe at
+<hi>ver.</hi> 5. Chriſt is diſtinguiſhed from, and oppoſed to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, who is mentioned at <hi>ver.</hi> 4. He cannot be that Perſon or Thing from which he is diſtinguiſhed, and to which he is oppoſed; for Diſtinction and Oppoſition ſuppoſe that Perſons and Things are divers. But the Doctor ſaith, it appears by <hi>ver.</hi> 11, 13,
+17, 18. that at <hi>ver.</hi> 8. the Lord Chriſt is cal<g ref="char:EOLhyphen"/>led <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. He doubted his Reader would not believe him if he recited the Words, there<g ref="char:EOLhyphen"/>fore he warily refers only to the Verſes. I deny, that in any of theſe Verſes the Lord Chriſt is called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. And <hi>ver.</hi> 18. (one of the Verſes quoted by him) demonſtrates, that Jeſus Chriſt is not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Being over All, the ever-bleſſed God. For there it is ſaid of him, <hi>I am he that liveth, and was dead.</hi> Dorh it agree to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to Unchangeable <hi>JAH,</hi> to Immutable <hi>Jehovah,</hi> that BEING over All, the ever-bleſſed God; that he liveth, <hi>and was dead?</hi>
+               </p>
+               <p>
+                  <hi>Lett.</hi> 1. <hi>pag.</hi> 2. He objected, 1 John 5.7. <hi>There are Three that bear record in Heaven, the Father, the Word, and the Holy Ghoſt: and theſe Three are One.</hi> I anſwered, 1. <hi>They are one in their Teſtimony;</hi> they witneſs the ſame thing: not one God. So <hi>Calvin, Beza, Eraſmus, Vatablus,</hi> and the <hi>Engliſh-Geneva</hi> Notes inter<g ref="char:EOLhyphen"/>pret. But the Doctor likes it not. He ſaith,
+<q>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>num ſunt,</hi> they are One; and <hi>
+                        <g ref="char:V">Ʋ</g>num ſumus</hi> (at <hi>John</hi> 10.30.)
+<hi>We are One,</hi> muſt ſignify <hi>one thing,</hi> one in Being, one in Eſſence. For ſo Adjectives of the Neuter Gender, without a Subſtantive, uſually ſignify both in
+<hi>Greek</hi> and <hi>Latin.</hi>
+                  </q> Now I deſire him to give me but one Inſtance in any Author, Sa<g ref="char:EOLhyphen"/>cred or Profane, where <hi>
+                     <g ref="char:V">Ʋ</g>num ſunt</hi> they are one, or <hi>
+                     <g ref="char:V">Ʋ</g>num ſumus</hi> we are one, do ſignify (as he ſays) one in Being, one in Eſſence, or one numerical Thing. When our Saviour ſays (John 10.30.) <hi>I and the Father are One,</hi> 'tis certain from his own Explication elſe<g ref="char:EOLhyphen"/>where, that he means not one numerical Thing, one in Being, one in Eſſence, or one God. He prays at John 17.22.—<hi>That they</hi> (the Diſciples) <hi>may be One, as We</hi> (the Father and I) <hi>are One.</hi> This Paſſage tells us, how we
+<pb n="20" facs="tcp:64891:11"/> are to underſtand John 10.30. <hi>I and the Fa<g ref="char:EOLhyphen"/>ther are One.</hi> For the Diſciples could be no otherways One, but One in Deſign, Intereſt, and Affection. But they were to be one, as Chriſt and the Father are one: therefore the Unity of God and Chriſt, is an Oneneſs or Unity of Affection, Deſign and Intereſt. Even as St. <hi>Paul,</hi> ſpeaking of Himſelf and <hi>Apollos,</hi> ſays, 1 Cor. 3.8. <hi>He that planteth, and he that watereth, are one.</hi> He meaneth one in Deſign; in the deſign of planting and pro<g ref="char:EOLhyphen"/>pagating the Goſpel. 2. I excepted againſt the Authority of this Text, becauſe 'tis want<g ref="char:EOLhyphen"/>ing in all the Ancient Tranſlations, and all Manuſcripts of Note. He makes light of this, and ſays, <hi>Whole Epiſtles are wanting in ſome Copies.</hi> 'Tis true, that, before Printing was in uſe, 'twas not very common to find the whole Bible in one Manuſcript; for People generally wrote out for their uſe only ſuch parts of the Bible as they moſt eſteemed. Some had on<g ref="char:EOLhyphen"/>ly the Four Goſpels, ſome added the Epiſtles of St. <hi>Paul,</hi> ſome the Catholick Epiſtles. But whoever wrote out an entire Book, or Epiſtle, never preſumed to add any thing to the Text, or to omit any thing. But the ob<g ref="char:EOLhyphen"/>jected Text was in no Copy of the Bible, I mean, <hi>in the Text</hi> of ſuch Copy, before St. <hi>Jerom</hi> brought it out of the Margin of ſome Copies. It was at firſt a Marginal Note, and by him made a part of the Sacred Text. It is never cited by any of the Fathers, till after his time. It is now indeed in St. <hi>Cyprian</hi>'s Book <hi>De <g ref="char:V">Ʋ</g>nitate Eccleſiae,</hi> but the Criticks have all noted, that no Credit is to be given to that Book, as we now have it. For in that little Tract of but Four Leaves, they ob<g ref="char:EOLhyphen"/>ſerve 288 Alterations and Additions.</p>
+               <p>Laſtly; The Doctor ſaith,
+<q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in this Text, and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> at <hi>John</hi> 10.30. agree ſo well; that 'tis a ſtrong Preſumption they are from the ſame Pen.</q> But, 1. I obſerve,
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> are not the Words of St. <hi>John</hi> at <hi>John</hi> 10.30. but of our Lord Chriſt; and I have already accounted for them. 2. If it be ſo ſtrong a Preſumption, that
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>They are one,</hi> are indeed St. <hi>John</hi>'s Words, becauſe we find <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>We are one,</hi> in his Goſpel: 'tis a much ſtronger Preſumption, that they are St. <hi>Paul</hi>'s Words, becauſe he hath the very Words
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>They are One,</hi> 1 Cor. 3.8.</p>
+               <p>
+                  <hi>Lett.</hi> 1. <hi>pag.</hi> 2. He ſaith,
+<q>
+                     <hi>The Form of Baptiſm</hi> (Mat. <hi>28.19.) is,</hi> in the Name of the Father, of the Son, and of the Holy Spirit.</q> He adds, <hi>Lett.</hi> 3. <hi>pag.</hi> 31.
+<q>We are baptized to the joint Service and Worſhip of the Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghoſt; and for ought appears, <hi>in the ſame degree.</hi>
+                  </q> No, the contra<g ref="char:EOLhyphen"/>ry appears, becauſe we know that the Son is but a Man, and the Spirit either an Angel, or the Power only and Inſpiration of God. But for this matter I refer the Reader, and (if he pleaſes) the Doctor himſelf, to the
+<hi>Brief Hiſtory, pag.</hi> 77, 78, 79. and to the <hi>Defence of that Hiſtory, pag.</hi> 37,
+38, 39, 40.</p>
+               <p>I am not aware, Sir, that there is any thing more in the Doctor's Letters neceſſary to be conſidered. I conclude therefore, with de<g ref="char:EOLhyphen"/>ſiring you to give my Acknowledgments and Thanks to Dr. <hi>Wallis,</hi> that he was willing to ſpend ſome part of his time, which he knows how to expend ſo well, in ſeeking <hi>to inſtruct</hi> and reduce the <hi>
+                     <g ref="char:V">Ʋ</g>nitarians,</hi> and particularly the <hi>Socinians.</hi> That they are not convinced by what he hath ſaid, doth not (they confeſs) leſſen their Obligations to him. They deſire it may not leſſen his Charity to them; ſince 'tis not in Mens Power to believe as they will. They profeſs he has written like a Man of Wit and Letters; like a Gentleman, and like a Chriſtian: Therefore they will always hear Dr. <hi>Wallis</hi> as a Father; and if there be a ne<g ref="char:EOLhyphen"/>ceſſity at any time to reply, they will anſwer reſpectfully. Sir, I am Yours.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64891:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
